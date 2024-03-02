@@ -1,0 +1,6 @@
+C:\Users\USER\source\repos\Acara 2 task 3 frendy\Acara 2 task 3 frendy\bin\Debug\Acara 2 task 3 frendy.dll
+C:\Users\USER\source\repos\Acara 2 task 3 frendy\Acara 2 task 3 frendy\bin\Debug\Acara 2 task 3 frendy.pdb
+C:\Users\USER\source\repos\Acara 2 task 3 frendy\Acara 2 task 3 frendy\obj\x64\Debug\Acara 2 task 3 frendy.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Acara 2 task 3 frendy\Acara 2 task 3 frendy\obj\x64\Debug\Acara 2 task 3 frendy.dll
+C:\Users\USER\source\repos\Acara 2 task 3 frendy\Acara 2 task 3 frendy\obj\x64\Debug\Acara 2 task 3 frendy.pdb
+C:\Users\USER\source\repos\Acara 2 task 3 frendy\Acara 2 task 3 frendy\obj\x64\Debug\Acara 2 task 3 frendy.csproj.AssemblyReference.cache

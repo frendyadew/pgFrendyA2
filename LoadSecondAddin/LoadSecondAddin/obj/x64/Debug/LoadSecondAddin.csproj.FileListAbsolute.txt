@@ -1,0 +1,6 @@
+C:\Users\USER\source\repos\LoadSecondAddin\LoadSecondAddin\bin\Debug\LoadSecondAddin.dll
+C:\Users\USER\source\repos\LoadSecondAddin\LoadSecondAddin\bin\Debug\LoadSecondAddin.pdb
+C:\Users\USER\source\repos\LoadSecondAddin\LoadSecondAddin\obj\x64\Debug\LoadSecondAddin.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\LoadSecondAddin\LoadSecondAddin\obj\x64\Debug\LoadSecondAddin.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\LoadSecondAddin\LoadSecondAddin\obj\x64\Debug\LoadSecondAddin.dll
+C:\Users\USER\source\repos\LoadSecondAddin\LoadSecondAddin\obj\x64\Debug\LoadSecondAddin.pdb

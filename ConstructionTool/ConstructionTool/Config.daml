@@ -1,0 +1,41 @@
+﻿<ArcGIS defaultAssembly="ConstructionTool.dll" defaultNamespace="ConstructionTool" xmlns="http://schemas.esri.com/DADF/Registry" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.esri.com/DADF/Registry file:///C:/Program%20Files/ArcGIS/Pro/bin/ArcGIS.Desktop.Framework.xsd">
+  <AddInInfo id="{2dacce05-bcfc-46bb-9beb-e10a7d734a5a}" version="1.0" desktopVersion="2.8.29751">
+    <Name>ConstructionTool</Name>
+    <Description>ConstructionTool description</Description>
+    <Image>Images\AddinDesktop32.png</Image>
+    <Author>USER</Author>
+    <Company>Acme</Company>
+    <Date>3/2/2024 1:52:20 PM</Date>
+    <Subject>Framework</Subject>
+    <!-- Note subject can be one or more of these topics:
+                    Content, Framework, Editing, Geodatabase, Geometry, Geoprocessing, Layouts, Map Authoring, Map Exploration -->
+  </AddInInfo>
+  <modules>
+    <insertModule id="ConstructionTool_Module" className="Module1" autoLoad="false" caption="Module1">
+      <!-- uncomment to have the control hosted on a separate tab-->
+      <tabs>
+        <!--<tab id="ConstructionTool_Tab1" caption="New Tab">
+          <group refID="ConstructionTool_Group1"/>
+        </tab>-->
+      </tabs>
+      <groups>
+        <!-- comment this out if you have no controls on the Addin tab to avoid
+              an empty group-->
+        <group id="ConstructionTool_Group1" caption="Group 1" appearsOnAddInTab="true">
+          <!-- host controls within groups -->
+          <button refID="ConstructionTool_BuildNewLayout" size="large" />
+        </group>
+      </groups>
+      <controls>
+        <!-- add your controls here -->
+        <tool id="ConstructionTool_BufferPolygonTool" categoryRefID="esri_editing_construction_polygon" caption="Create Buffer Polygon" className="BufferPolygonTool" loadOnClick="true" smallImage="pack://application:,,,/ArcGIS.Desktop.Resources;component/Images/GenericButtonRed16.png" largeImage="pack://application:,,,/ArcGIS.Desktop.Resources;component/Images/GenericButtonRed32.png">
+          <tooltip heading="Create Buffer Polygon">
+				  Create polygon with a buffer distance.<disabledText /></tooltip>
+        </tool>
+        <button id="ConstructionTool_BuildNewLayout" caption="BuildNewLayout" className="BuildNewLayout" loadOnClick="true" smallImage="pack://application:,,,/ArcGIS.Desktop.Resources;component/Images/GenericButtonBlue16.png" largeImage="pack://application:,,,/ArcGIS.Desktop.Resources;component/Images/GenericButtonBlue32.png">
+          <tooltip heading="Tooltip Heading">Tooltip text<disabledText /></tooltip>
+        </button>
+      </controls>
+    </insertModule>
+  </modules>
+</ArcGIS>

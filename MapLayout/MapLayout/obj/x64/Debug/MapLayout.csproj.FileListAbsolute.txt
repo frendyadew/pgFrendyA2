@@ -1,0 +1,2 @@
+C:\Users\USER\source\repos\MapLayout\MapLayout\obj\x64\Debug\MapLayout.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\MapLayout\MapLayout\obj\x64\Debug\MapLayout.csproj.CoreCompileInputs.cache

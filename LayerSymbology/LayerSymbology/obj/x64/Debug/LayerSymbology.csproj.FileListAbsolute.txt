@@ -1,0 +1,6 @@
+C:\Users\USER\source\repos\LayerSymbology\LayerSymbology\bin\Debug\LayerSymbology.dll
+C:\Users\USER\source\repos\LayerSymbology\LayerSymbology\bin\Debug\LayerSymbology.pdb
+C:\Users\USER\source\repos\LayerSymbology\LayerSymbology\obj\x64\Debug\LayerSymbology.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\LayerSymbology\LayerSymbology\obj\x64\Debug\LayerSymbology.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\LayerSymbology\LayerSymbology\obj\x64\Debug\LayerSymbology.dll
+C:\Users\USER\source\repos\LayerSymbology\LayerSymbology\obj\x64\Debug\LayerSymbology.pdb

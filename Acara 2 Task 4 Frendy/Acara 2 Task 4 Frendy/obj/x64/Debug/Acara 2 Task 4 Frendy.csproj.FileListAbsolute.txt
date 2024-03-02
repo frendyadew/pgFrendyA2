@@ -1,0 +1,6 @@
+C:\Users\USER\source\repos\Acara 2 Task 4 Frendy\Acara 2 Task 4 Frendy\bin\Debug\Acara 2 Task 4 Frendy.dll
+C:\Users\USER\source\repos\Acara 2 Task 4 Frendy\Acara 2 Task 4 Frendy\bin\Debug\Acara 2 Task 4 Frendy.pdb
+C:\Users\USER\source\repos\Acara 2 Task 4 Frendy\Acara 2 Task 4 Frendy\obj\x64\Debug\Acara 2 Task 4 Frendy.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Acara 2 Task 4 Frendy\Acara 2 Task 4 Frendy\obj\x64\Debug\Acara 2 Task 4 Frendy.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Acara 2 Task 4 Frendy\Acara 2 Task 4 Frendy\obj\x64\Debug\Acara 2 Task 4 Frendy.dll
+C:\Users\USER\source\repos\Acara 2 Task 4 Frendy\Acara 2 Task 4 Frendy\obj\x64\Debug\Acara 2 Task 4 Frendy.pdb

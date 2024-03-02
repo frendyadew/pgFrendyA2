@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ArcGIS defaultAssembly="PG  acara 2 task 2 frendy.dll"
+        defaultNamespace="PG__acara_2_task_2_frendy"
+        xmlns="http://schemas.esri.com/DADF/Registry"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://schemas.esri.com/DADF/Registry file:///C:/Program%20Files/ArcGIS/Pro/bin/ArcGIS.Desktop.Framework.xsd">
+
+  <AddInInfo id="{f95fdcf3-8d65-4dce-ab0d-697ea8b8c0f8}" version="1.0" desktopVersion="2.8.29751">
+    <Name>PG__acara_2_task_2_frendy</Name>
+    <Description>PG__acara_2_task_2_frendy description</Description>
+    <Image>Images\AddinDesktop32.png</Image>
+    <Author>USER</Author>
+    <Company>Acme</Company>
+    <Date>2/26/2024 10:21:40 AM</Date>
+    <Subject>Framework</Subject>
+    <!-- Note subject can be one or more of these topics:
+                    Content, Framework, Editing, Geodatabase, Geometry, Geoprocessing, Layouts, Map Authoring, Map Exploration -->
+  </AddInInfo>
+
+  <Configuration>
+    <ConfigurationManager className="ConfigurationManager1"/>
+  </Configuration>
+
+  <modules>
+    <insertModule id="PG__acara_2_task_2_frendy_Module" className="Module1" autoLoad="false" caption="Module1">
+      <!-- uncomment to have the control hosted on a separate tab-->
+      <tabs>
+        <!--<tab id="PG__acara_2_task_2_frendy_Tab1" caption="New Tab">
+          <group refID="PG__acara_2_task_2_frendy_Group1"/>
+        </tab>-->
+      </tabs>
+
+      <groups>
+
+      </groups>
+
+      <controls>
+        <!-- add your controls here -->
+      </controls>
+
+    </insertModule>
+  </modules>
+</ArcGIS>

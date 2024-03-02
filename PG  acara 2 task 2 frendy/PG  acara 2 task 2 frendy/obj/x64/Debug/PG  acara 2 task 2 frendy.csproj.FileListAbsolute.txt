@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\PG  acara 2 task 2 frendy\PG  acara 2 task 2 frendy\bin\Debug\PG  acara 2 task 2 frendy.dll
+C:\Users\USER\source\repos\PG  acara 2 task 2 frendy\PG  acara 2 task 2 frendy\bin\Debug\PG  acara 2 task 2 frendy.pdb
+C:\Users\USER\source\repos\PG  acara 2 task 2 frendy\PG  acara 2 task 2 frendy\obj\x64\Debug\PG  acara 2 task 2 frendy.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\PG  acara 2 task 2 frendy\PG  acara 2 task 2 frendy\obj\x64\Debug\UI\SplashScreen.g.cs
+C:\Users\USER\source\repos\PG  acara 2 task 2 frendy\PG  acara 2 task 2 frendy\obj\x64\Debug\UI\AboutPage.g.cs
+C:\Users\USER\source\repos\PG  acara 2 task 2 frendy\PG  acara 2 task 2 frendy\obj\x64\Debug\UI\StartPage.g.cs
+C:\Users\USER\source\repos\PG  acara 2 task 2 frendy\PG  acara 2 task 2 frendy\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\USER\source\repos\PG  acara 2 task 2 frendy\PG  acara 2 task 2 frendy\obj\x64\Debug\PG  acara 2 task 2 frendy_MarkupCompile.cache
+C:\Users\USER\source\repos\PG  acara 2 task 2 frendy\PG  acara 2 task 2 frendy\obj\x64\Debug\PG  acara 2 task 2 frendy_MarkupCompile.lref
+C:\Users\USER\source\repos\PG  acara 2 task 2 frendy\PG  acara 2 task 2 frendy\obj\x64\Debug\UI\SplashScreen.baml
+C:\Users\USER\source\repos\PG  acara 2 task 2 frendy\PG  acara 2 task 2 frendy\obj\x64\Debug\UI\AboutPage.baml
+C:\Users\USER\source\repos\PG  acara 2 task 2 frendy\PG  acara 2 task 2 frendy\obj\x64\Debug\UI\StartPage.baml
+C:\Users\USER\source\repos\PG  acara 2 task 2 frendy\PG  acara 2 task 2 frendy\obj\x64\Debug\PG  acara 2 task 2 frendy.g.resources
+C:\Users\USER\source\repos\PG  acara 2 task 2 frendy\PG  acara 2 task 2 frendy\obj\x64\Debug\PG  acara 2 task 2 frendy.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\PG  acara 2 task 2 frendy\PG  acara 2 task 2 frendy\obj\x64\Debug\PG  acara 2 task 2 frendy.dll
+C:\Users\USER\source\repos\PG  acara 2 task 2 frendy\PG  acara 2 task 2 frendy\obj\x64\Debug\PG  acara 2 task 2 frendy.pdb

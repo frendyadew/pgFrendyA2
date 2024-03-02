@@ -1,0 +1,36 @@
+﻿<ArcGIS defaultAssembly="Acara 2 task 5 Frendy Customization.dll" defaultNamespace="Acara_2_task_5_Frendy_Customization" xmlns="http://schemas.esri.com/DADF/Registry" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.esri.com/DADF/Registry file:///C:/Program%20Files/ArcGIS/Pro/bin/ArcGIS.Desktop.Framework.xsd">
+  <AddInInfo id="{02c420a2-e775-46ad-85c7-e761f9ad3361}" version="1.0" desktopVersion="2.8.29751">
+    <Name>Acara_2_task_5_Frendy_Customization</Name>
+    <Description>Acara_2_task_5_Frendy_Customization description</Description>
+    <Image>Images\AddinDesktop32.png</Image>
+    <Author>USER</Author>
+    <Company>Acme</Company>
+    <Date>2/26/2024 11:55:52 AM</Date>
+    <Subject>Framework</Subject>
+    <!-- Note subject can be one or more of these topics:
+                    Content, Framework, Editing, Geodatabase, Geometry, Geoprocessing, Layouts, Map Authoring, Map Exploration -->
+  </AddInInfo>
+	<modules>
+		<insertModule id="Acara_2_task_5_Frendy_Customization_Module" className="Module1" autoLoad="false" caption="Module1">
+			<tabs>
+				<tab id="Acara_2_task_5_Frendy_Customization_Tab1" caption="Loading Test">
+					<group refID="Acara_2_task_5_Frendy_Customization_Group1"/>
+				</tab>
+			</tabs>
+			<groups>
+				<group id="Acara_2_task_5_Frendy_Customization_Group1" caption="Add-in 1 Group" appearsOnAddInTab="false">
+					<button refID="Acara_2_task_5_Frendy_Customization_Button1" size="large" />
+				</group>
+			</groups>
+			<controls>
+				<button id="Acara_2_task_5_Frendy_Customization_Button1" caption="Add-in 1 Button" className="Button1" loadOnClick="true"
+						smallImage="pack://application:,,,/ArcGIS.Desktop.Resources;component/Images/GenericButtonBlue16.png" largeImage="pack://application:,,,/ArcGIS.Desktop.Resources;component/Images/GenericButtonBlue32.png">
+					<tooltip heading="Tooltip Heading">
+						Tooltip text<disabledText />
+					</tooltip>
+				</button>
+			</controls>
+		</insertModule>
+	</modules>
+
+</ArcGIS>

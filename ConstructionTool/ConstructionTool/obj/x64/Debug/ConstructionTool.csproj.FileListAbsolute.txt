@@ -1,0 +1,6 @@
+C:\Users\USER\source\repos\ConstructionTool\ConstructionTool\bin\Debug\ConstructionTool.dll
+C:\Users\USER\source\repos\ConstructionTool\ConstructionTool\bin\Debug\ConstructionTool.pdb
+C:\Users\USER\source\repos\ConstructionTool\ConstructionTool\obj\x64\Debug\ConstructionTool.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\ConstructionTool\ConstructionTool\obj\x64\Debug\ConstructionTool.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ConstructionTool\ConstructionTool\obj\x64\Debug\ConstructionTool.dll
+C:\Users\USER\source\repos\ConstructionTool\ConstructionTool\obj\x64\Debug\ConstructionTool.pdb

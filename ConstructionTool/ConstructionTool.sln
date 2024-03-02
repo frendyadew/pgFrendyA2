@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34407.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructionTool", "ConstructionTool\ConstructionTool.csproj", "{2DACCE05-BCFC-46BB-9BEB-E10A7D734A5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DACCE05-BCFC-46BB-9BEB-E10A7D734A5A}.Debug|x64.ActiveCfg = Debug|x64
+		{2DACCE05-BCFC-46BB-9BEB-E10A7D734A5A}.Debug|x64.Build.0 = Debug|x64
+		{2DACCE05-BCFC-46BB-9BEB-E10A7D734A5A}.Release|x64.ActiveCfg = Release|x64
+		{2DACCE05-BCFC-46BB-9BEB-E10A7D734A5A}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49ABB8EE-9888-48C9-B47D-00A7A539C92E}
+	EndGlobalSection
+EndGlobal

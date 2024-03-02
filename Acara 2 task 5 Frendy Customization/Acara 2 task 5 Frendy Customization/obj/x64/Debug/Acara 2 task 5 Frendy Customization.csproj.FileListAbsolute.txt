@@ -1,0 +1,6 @@
+C:\Users\USER\source\repos\Acara 2 task 5 Frendy Customization\Acara 2 task 5 Frendy Customization\bin\Debug\Acara 2 task 5 Frendy Customization.dll
+C:\Users\USER\source\repos\Acara 2 task 5 Frendy Customization\Acara 2 task 5 Frendy Customization\bin\Debug\Acara 2 task 5 Frendy Customization.pdb
+C:\Users\USER\source\repos\Acara 2 task 5 Frendy Customization\Acara 2 task 5 Frendy Customization\obj\x64\Debug\Acara 2 task 5 Frendy Customization.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Acara 2 task 5 Frendy Customization\Acara 2 task 5 Frendy Customization\obj\x64\Debug\Acara 2 task 5 Frendy Customization.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Acara 2 task 5 Frendy Customization\Acara 2 task 5 Frendy Customization\obj\x64\Debug\Acara 2 task 5 Frendy Customization.dll
+C:\Users\USER\source\repos\Acara 2 task 5 Frendy Customization\Acara 2 task 5 Frendy Customization\obj\x64\Debug\Acara 2 task 5 Frendy Customization.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34407.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Acara 2 task 3 frendy", "Acara 2 task 3 frendy\Acara 2 task 3 frendy.csproj", "{CA10C520-E326-49BE-A994-6AF9DEE03E26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA10C520-E326-49BE-A994-6AF9DEE03E26}.Debug|x64.ActiveCfg = Debug|x64
+		{CA10C520-E326-49BE-A994-6AF9DEE03E26}.Debug|x64.Build.0 = Debug|x64
+		{CA10C520-E326-49BE-A994-6AF9DEE03E26}.Release|x64.ActiveCfg = Release|x64
+		{CA10C520-E326-49BE-A994-6AF9DEE03E26}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D177DB2A-A82C-492C-A45A-9B3F21CAC1F6}
+	EndGlobalSection
+EndGlobal

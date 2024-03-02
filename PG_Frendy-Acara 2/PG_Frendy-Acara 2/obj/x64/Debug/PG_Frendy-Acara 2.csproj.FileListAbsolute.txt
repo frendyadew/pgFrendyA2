@@ -1,0 +1,6 @@
+C:\Users\USER\source\repos\PG_Frendy-Acara 2\PG_Frendy-Acara 2\bin\Debug\PG_Frendy-Acara 2.dll
+C:\Users\USER\source\repos\PG_Frendy-Acara 2\PG_Frendy-Acara 2\bin\Debug\PG_Frendy-Acara 2.pdb
+C:\Users\USER\source\repos\PG_Frendy-Acara 2\PG_Frendy-Acara 2\obj\x64\Debug\PG_Frendy-Acara 2.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\PG_Frendy-Acara 2\PG_Frendy-Acara 2\obj\x64\Debug\PG_Frendy-Acara 2.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\PG_Frendy-Acara 2\PG_Frendy-Acara 2\obj\x64\Debug\PG_Frendy-Acara 2.dll
+C:\Users\USER\source\repos\PG_Frendy-Acara 2\PG_Frendy-Acara 2\obj\x64\Debug\PG_Frendy-Acara 2.pdb

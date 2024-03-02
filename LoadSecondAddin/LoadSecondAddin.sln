@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34407.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoadSecondAddin", "LoadSecondAddin\LoadSecondAddin.csproj", "{F29CCB8F-8A63-43FF-94E0-5654AC76C7B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F29CCB8F-8A63-43FF-94E0-5654AC76C7B3}.Debug|x64.ActiveCfg = Debug|x64
+		{F29CCB8F-8A63-43FF-94E0-5654AC76C7B3}.Debug|x64.Build.0 = Debug|x64
+		{F29CCB8F-8A63-43FF-94E0-5654AC76C7B3}.Release|x64.ActiveCfg = Release|x64
+		{F29CCB8F-8A63-43FF-94E0-5654AC76C7B3}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F0F5774-8B1B-441A-A249-CB7D32B96FDB}
+	EndGlobalSection
+EndGlobal

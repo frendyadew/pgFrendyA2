@@ -1,0 +1,35 @@
+﻿<ArcGIS defaultAssembly="RunGPTool.dll" defaultNamespace="RunGPTool" xmlns="http://schemas.esri.com/DADF/Registry" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.esri.com/DADF/Registry file:///C:/Program%20Files/ArcGIS/Pro/bin/ArcGIS.Desktop.Framework.xsd">
+  <AddInInfo id="{3b363626-200b-480b-9b96-a85ddce70753}" version="1.0" desktopVersion="2.8.29751">
+    <Name>RunGPTool</Name>
+    <Description>RunGPTool description</Description>
+    <Image>Images\AddinDesktop32.png</Image>
+    <Author>USER</Author>
+    <Company>Acme</Company>
+    <Date>3/2/2024 9:35:41 AM</Date>
+    <Subject>Framework</Subject>
+    <!-- Note subject can be one or more of these topics:
+                    Content, Framework, Editing, Geodatabase, Geometry, Geoprocessing, Layouts, Map Authoring, Map Exploration -->
+  </AddInInfo>
+	<modules>
+		<insertModule id="RunGPTool_Module" className="Module1" autoLoad="false" caption="Module1">
+			<groups>
+				<group id="RunGPTool_Group1" caption="Run GP and Python" appearsOnAddInTab="true">
+					<button refID="RunGPTool_RunGP" size="large" />
+					<button refID="RunGPTool_RunPython" size="large" />
+				</group>
+			</groups>
+			<controls>
+				<button id="RunGPTool_RunGP" caption="Run GP Tool" className="RunGP" loadOnClick="true" smallImage="pack://application:,,,/ArcGIS.Desktop.Resources;component/Images/GenericButtonBlue16.png" largeImage="pack://application:,,,/ArcGIS.Desktop.Resources;component/Images/GenericButtonBlue32.png">
+					<tooltip heading="Run a GP Tool">
+						Runs the Buffer GP Tool on the selected feature layer.<disabledText />
+					</tooltip>
+				</button>
+				<button id="RunGPTool_RunPython" caption="Run Python Script" className="RunPython" loadOnClick="true" smallImage="pack://application:,,,/ArcGIS.Desktop.Resources;component/Images/GenericButtonBlue16.png" largeImage="pack://application:,,,/ArcGIS.Desktop.Resources;component/Images/GenericButtonBlue32.png">
+					<tooltip heading="Run a Python Script">
+						Run a Python script to buffer features in the FeatureTest sample dataset.<disabledText />
+					</tooltip>
+				</button>
+			</controls>
+		</insertModule>
+	</modules>
+</ArcGIS>

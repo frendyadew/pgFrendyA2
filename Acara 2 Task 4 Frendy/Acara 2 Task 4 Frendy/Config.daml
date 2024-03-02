@@ -1,0 +1,37 @@
+﻿<ArcGIS defaultAssembly="Acara 2 Task 4 Frendy.dll" defaultNamespace="Acara_2_Task_4_Frendy" xmlns="http://schemas.esri.com/DADF/Registry" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.esri.com/DADF/Registry file:///C:/Program%20Files/ArcGIS/Pro/bin/ArcGIS.Desktop.Framework.xsd">
+  <AddInInfo id="{a5cb4068-2f5c-446a-b41a-1f57f681f870}" version="1.0" desktopVersion="2.8.29751">
+    <Name>Acara_2_Task_4_Frendy</Name>
+    <Description>Acara_2_Task_4_Frendy description</Description>
+    <Image>Images\AddinDesktop32.png</Image>
+    <Author>USER</Author>
+    <Company>Acme</Company>
+    <Date>2/26/2024 11:22:27 AM</Date>
+    <Subject>Framework</Subject>
+    <!-- Note subject can be one or more of these topics:
+                    Content, Framework, Editing, Geodatabase, Geometry, Geoprocessing, Layouts, Map Authoring, Map Exploration -->
+  </AddInInfo>
+  <modules>
+    <insertModule id="Acara_2_Task_4_Frendy_Module" className="Module1" autoLoad="false" caption="Module1">
+      <!-- uncomment to have the control hosted on a separate tab-->
+      <tabs>
+        <!--<tab id="Acara_2_Task_4_Frendy_Tab1" caption="New Tab">
+          <group refID="Acara_2_Task_4_Frendy_Group1"/>
+        </tab>-->
+      </tabs>
+		<groups>
+			<group id="EditWithInspector_Group1" caption="Update Attributes with Inspector" appearsOnAddInTab="true">
+				<editBox refID="EditWithInspector_AttributeNameToUseEditBox" size="middle" />
+				<editBox refID="EditWithInspector_ModValueToSetEditBox" size="middle" />
+				<button refID="EditWithInspector_UpdateValuesButton" size="large" />
+			</group>
+		</groups>
+
+		<controls>
+			<editBox id="EditWithInspector_ModValueToSetEditBox" caption="Enter value to set: " className="ModValueToSetEditBox" sizeString="AAAAAAAAAAAAAAAAA"></editBox>
+			<editBox id="EditWithInspector_AttributeNameToUseEditBox" caption="Enter attribute name to update:" className="AttributeNameToUseEditBox" sizeString="AAAAAAAAAAAAAAAAA"></editBox>
+			<button id="EditWithInspector_UpdateValuesButton" caption="Update Values" className="UpdateValuesButton" loadOnClick="true" smallImage="pack://application:,,,/ArcGIS.Desktop.Resources;component/Images/GenericButtonBlue16.png" largeImage="pack://application:,,,/ArcGIS.Desktop.Resources;component/Images/GenericButtonBlue32.png">
+			</button>
+		</controls>
+    </insertModule>
+  </modules>
+</ArcGIS>

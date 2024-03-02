@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\MapLayout\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62C78040-DD9B-482C-8191-1580BA17CE43}|MapLayout\\MapLayout.csproj|c:\\users\\user\\source\\repos\\maplayout\\maplayout\\buildnewlayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62C78040-DD9B-482C-8191-1580BA17CE43}|MapLayout\\MapLayout.csproj|solutionrelative:maplayout\\buildnewlayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C78040-DD9B-482C-8191-1580BA17CE43}|MapLayout\\MapLayout.csproj|c:\\users\\user\\source\\repos\\maplayout\\maplayout\\config.daml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{62C78040-DD9B-482C-8191-1580BA17CE43}|MapLayout\\MapLayout.csproj|solutionrelative:maplayout\\config.daml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Config.daml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\MapLayout\\MapLayout\\Config.daml",
+              "RelativeDocumentMoniker": "MapLayout\\Config.daml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\MapLayout\\MapLayout\\Config.daml",
+              "RelativeToolTip": "MapLayout\\Config.daml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-02T08:46:46.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BuildNewLayout.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\MapLayout\\MapLayout\\BuildNewLayout.cs",
+              "RelativeDocumentMoniker": "MapLayout\\BuildNewLayout.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\MapLayout\\MapLayout\\BuildNewLayout.cs",
+              "RelativeToolTip": "MapLayout\\BuildNewLayout.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAowE4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T08:34:20.133Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
